@@ -10,7 +10,7 @@ on:
 
 env:
   GITHUB_NAME: AllenPi
-  GITHUB_EMAIL: 
+  GITHUB_EMAIL: Allen.guo525@gmail.com
   STARED_NUMBER: 10
 
 jobs:
