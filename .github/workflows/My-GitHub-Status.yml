@@ -9,8 +9,8 @@ on:
       - main
 
 env:
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: AllenPi
+  GITHUB_EMAIL: 
   STARED_NUMBER: 10
 
 jobs:
