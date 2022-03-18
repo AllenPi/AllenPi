@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - 
 - 黑色背景显示stars
 - ![AllenPi's github stats](https://github-readme-stats.vercel.app/api?username=AllenPi&show_icons=true&theme=radical)
-- 
+- ![AllenPi's github stats](https://github-readme-stats.vercel.app/api?username=AllenPi&show_icons=true)
 -->
-![AllenPi's github stats](https://github-readme-stats.vercel.app/api?username=AllenPi&show_icons=true)
 
+<img src="https://github-readme-stats.vercel.app/api?username=AllenPi&show_icons=true&theme=radical" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 
 <!--START_SECTION:my_github-->
